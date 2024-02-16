@@ -6,7 +6,7 @@ const NavBar = () => {
   return (
     <header  className='flex flex-row bg-blue-400 items-center justify-around mb-px border-solid border-2 border-black'>
       <Link to="/">
-        <h1 className='text-3xl w-0 '>Home</h1>
+        <h1 className='text-3xl w-0 '>Inicio</h1>
       </Link>
       <Link to="/">
       <img src='src\assets\logo.jpg' alt="" className='w-20' />
